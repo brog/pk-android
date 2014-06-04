@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pretty Kitty</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="change_location">Change location</string>
+    <string name="title_activity_location">Choose Location</string>
+    <string name="submit">Save</string>
+    <string name="about">About</string>
+
+    <string name="global_prefs">com.prettykitty.prefs</string>
+    <string name="key_location">location</string>
+
+</resources>
